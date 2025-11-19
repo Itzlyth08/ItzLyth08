@@ -11,7 +11,7 @@ I'm a tech tinkerer and maker building **off-grid, self-reliant devices** and ex
 ---
 
 ## 💡 Current Projects
-- **Project Sky:** Encrypted LoRa messaging, touchscreen UI, secure storage  
+- **OpenCom:** Encrypted LoRa messaging, touchscreen UI, secure storage  
 ---
 
 Always experimenting, learning, and pushing the limits of tech.  
