@@ -1,4 +1,4 @@
-# Hi, I'm Lauchlon 👋
+# Hi, I'm Lyth 👋
 
 I'm a tech tinkerer and maker building **off-grid, self-reliant devices** and exploring the limits of DIY electronics and software. I love creating secure communication tools and experimenting with embedded systems.
 
