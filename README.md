@@ -8,11 +8,7 @@ I'm a tech tinkerer and maker building **off-grid, self-reliant devices** and ex
 - **Embedded & Microcontrollers:** ESP32, Arduino, Raspberry Pi, LoRa  
 - **Software & OS:** Arch Linux, Alpine Linux, Python, C++, PopOS
 
----
-
-## 💡 Current Projects
-- **OpenCom:** Encrypted LoRa messaging, touchscreen UI, secure storage  
----
+--
 
 Always experimenting, learning, and pushing the limits of tech.  
 Feel free to explore my repos and reach out if you share similar interests! 🚀
